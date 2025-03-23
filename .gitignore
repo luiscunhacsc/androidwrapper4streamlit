@@ -1,0 +1,27 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle
+/build/
+**/build/
+
+# Local configuration
+/local.properties
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files
+*.jks
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
